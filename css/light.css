@@ -1,0 +1,18 @@
+:root {
+  
+  --primary-color: #000;
+  --secondary-color: #088ed1; 
+  --third-color:#f3f3f3;
+  --four-color:#848484;
+  --text-color:#fff;
+}
+body {
+  background-color: var(--back-color);
+  color: var(--primary-color);
+}
+
+header {
+  background-color: var(--primary-color);
+  color: var(--primary-color);
+}
+
